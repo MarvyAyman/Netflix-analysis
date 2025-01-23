@@ -4,6 +4,13 @@
 
 This project analyzes Netflix's extensive library of movies and TV shows to uncover patterns, trends, and insights that can guide strategic content decisions. The dataset includes key attributes such as genres, ratings, release years, duration, regional production, and audience preferences. The analysis aims to address challenges related to content distribution imbalance, genre and rating variability, data gaps, and the emergence of new markets.
 
+## Analysis Goals
+
+- Understand regional contributions and emerging markets.
+- Investigate genre and ratings trends.
+- Analyze content growth over time.
+- Provide actionable recommendations for content strategy and audience engagement.
+  
 ## Contents
 
 1. **Documentation**: Detailed analysis findings and strategic recommendations.
@@ -15,12 +22,6 @@ This project analyzes Netflix's extensive library of movies and TV shows to unco
 3. **Video Report**: A comprehensive presentation of the analysis.
    - [Netflix Analysis Video](https://drive.google.com/file/d/19sdRNuIrp2ie_3nAPwONkrOl7qSE8BWZ/view?usp=sharing)
 
-## Analysis Goals
-
-- Understand regional contributions and emerging markets.
-- Investigate genre and ratings trends.
-- Analyze content growth over time.
-- Provide actionable recommendations for content strategy and audience engagement.
   
 ## Key Findings
 
